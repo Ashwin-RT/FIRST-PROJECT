@@ -1,0 +1,2 @@
+This is my first file uploaded to GitHub.
+I am learning how to use GitHub for projects and version control.
